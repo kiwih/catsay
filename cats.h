@@ -1,7 +1,7 @@
 #ifndef _CATS_H
 #define _CATS_H
 
-#define NUM_CATS 2
+#define NUM_CATS 4
 
 struct catInfo {
 	int startAddr;

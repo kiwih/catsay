@@ -1,6 +1,6 @@
 #include "jokes.h"
 
-const char* jokes[16] = {
+const char* jokes[NUM_JOKES] = {
 	"What do you call a cat winning an award? A cat-has-trophy!",
 	"What do you call a pile of kittens? A meowtain!",
 	"Why don't cats like online shopping? They prefer catalogues!",
@@ -16,6 +16,16 @@ const char* jokes[16] = {
 	"What is a cat's favourite vegetable? Aspurragus!",
 	"Did you hear about the cat that thought it was a dog? It was purr-plexed!",
 	"What is a cat's favourite musical category? Purrcussian!",
-	"What do you call a cat that keeps licking itself? Purrverted!"
+	"What do you call a cat that keeps licking itself? Purrverted!",
+	"What do you call a flying cat? Im-paws-able",
+	"Hell yeah I'm a catholic, I've been addicted to cats my whole life!",
+	"Why was the cat sitting on the computer? To keep an eye on the mouse!",
+	"Do you want to hear a bad cat joke? Just kitten.",
+	"What kind of sports car do cats like? Furraries!",
+	"What is a cats favourite TV show? The evening mews!",
+	"What do you call a cat that lives in an igloo? An eskimew!",
+	"What do you call huge cats? MEOW-SIVE!",
+	"What do you call a cat on the beach at christmas? Sandy Claws!",
+	"My kitten was having trouble watching her DVD. Turns out she had it on paws."
 };
 
